@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file alias="Point">Point.png</file>
+        <file alias="Shield">Shield.png</file>
+        <file alias="Success">Success.png</file>
+        <file alias="Scanning">Scanning.gif</file>
+        <file alias="Warning">Warning.png</file>
+        <file alias="ScanInitial">ScanInitial.png</file>
+        <file alias="ScanSuccess">ScanSuccess.png</file>
+    </qresource>
+</RCC>
